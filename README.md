@@ -49,6 +49,7 @@ Quick Setup
 6. Go to `http://localhost:5000/` and enjoy this application!
 
 
-Reference:
-[Using Celery with Flask](http://blog.miguelgrinberg.com/post/using-celery-with-flask).
+Reference
+-----------
+[Using Celery with Flask]http://blog.miguelgrinberg.com/post/using-celery-with-flask.
 [Using RabbitMQ]http://docs.celeryproject.org/en/latest/getting-started/brokers/rabbitmq.html
